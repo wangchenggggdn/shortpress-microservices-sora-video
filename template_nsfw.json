@@ -1,0 +1,182 @@
+[
+    {
+        "templateId": "undress",
+        "imageParameters": "{\"name\":\"Template-Undress\",\"prompt\":\"completely nude, naked, fully undressed, no clothes at all, bare skin everywhere, exposed large breasts, exposed nipples, exposed detailed pussy, exposed vulva, bare thighs, bare legs, bare feet, detailed naked body, realistic skin texture, glossy skin, nsfw, explicit, masterpiece, best quality, highres\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"model\":\"vidu/vidu-q2/start-end-to-video\",\"args\":{\"prompt\":\"undress\",\"duration\":\"5\",\"mode\":\"pro\",\"resolution\":\"720p\",\"generate_audio\":false}}",
+        "type": "image_to_video_a2e_s_e_viduq2",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-undressing-58c91b1c.mp4",
+        "title": "Undress",
+        "desc": "Gradual undressing process from clothed to fully nude, emphasizing realistic exposure and body details"
+    },
+    {
+        "templateId": "posing",
+        "imageParameters": "{\"name\":\"Template-Posing\",\"prompt\":\"completely nude, naked, fully undressed, no clothes at all, bare skin everywhere, exposed large breasts, exposed nipples, exposed detailed pussy, exposed vulva, bare thighs, bare legs, bare feet, detailed naked body, realistic skin texture, glossy skin, nsfw, explicit, masterpiece, best quality, highres,full body shot, full length portrait, entire face clearly visible\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"model\":\"vidu/vidu-q2/image-to-video\",\"args\":{\"prompt\":\"photorealistic NSFW adult video animation from image, extremely beautiful 24-year-old mixed woman with flawless porcelain skin, completely nude, perfect natural C-cup breasts with small pink erect nipples, slim toned body, long silky black hair with slight waves, standing seductively in modern luxury bedroom with floor-to-ceiling windows golden hour sunset light, soft warm volumetric god rays, she starts with hands covering breasts then slowly drops arms revealing full frontal nudity, turns body side to side showing perfect ass and curves, one hand slides down stomach to lightly touch her trimmed pussy while biting lower lip, subtle hip sway and slow body undulation, runs hands through hair then down neck and breasts, gentle breast squeeze, finally turns back to camera arching back slightly pushing ass out, looking over shoulder with seductive half-lidded eyes and teasing smile, very slow sensual posing rhythm, elegant catwalk-like movements, cinematic camera starts full body medium shot then very slow smooth push-in to upper body and face while she continues posing, ends with close-up on face and breasts, ultra realistic skin texture pores subtle goosebumps sweat sheen, 8k raw cinematic color grading, explicit uncensored nsfw masterpiece, best quality, highly detailed\",\"duration\":\"5\",\"mode\":\"pro\",\"resolution\":\"720p\",\"generate_audio\":false}}",
+        "type": "image_to_video_a2e_viduq2",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-posing_naked-78b44fed.mp4",
+        "title": "POSING",
+        "desc": "Fully nude seductive posing, slow body reveal, curves display, teasing gestures and eye contact"
+    },
+    {
+        "templateId": "ahegao",
+        "imageParameters": "{\"name\":\"Template-Ahegao\",\"prompt\":\"score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, ultra detailed, photorealistic, realistic skin texture, absurdres, highres, explicit nsfw, 1girl, young woman, beautiful face, detailed facial features, (extreme ahegao:1.5), (ahegao face:1.45), (long tongue out:1.55), (tongue lolling out heavily:1.5), (tongue extended far:1.45), (thick saliva drooling:1.5), (saliva string from tongue tip to chin:1.4), (drool dripping down tongue and chin:1.45), (saliva trail glistening:1.3\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"model\":\"vidu/vidu-q2/image-to-video\",\"args\":{\"prompt\":\"stick out your tongue, and move it back and forth to tease\",\"duration\":\"5\",\"mode\":\"pro\",\"resolution\":\"720p\",\"generate_audio\":false}}",
+        "type": "image_to_video_viduq2",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-ahegao-c6a87206.mp4",
+        "title": "AHEGAO",
+        "desc": "Extreme ahegao expression with heavy drooling, tongue out, rolling eyes, intense ecstasy face"
+    },
+    {
+        "templateId": "kissing",
+        "imageParameters": "{\"name\":\"Template-Kissing\",\"prompt\":\"close-up of add a person in a passionate deep french kiss, lips pressed together then slightly parted, tongues touching and sliding visibly, wet glossy lips with natural shine, eyes softly closed, aroused and intimate expression, sensual atmosphere, ultra-detailed mouth and lips, realistic, masterpiece, 8k\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"model\":\"vidu/vidu-q2/image-to-video\",\"args\":{\"prompt\":\"A sexy woman appears from the right edge of the frame, striding seductively toward the girl sitting/lying in the center, heavy eye-fucking gaze, heavy breathing implied, flushed faces with arousal, they pull each other close hungrily, starting a very deep wet french kiss, tongues deeply sliding and twisting together, lots of saliva drooling slightly from lips, extremely glossy and wet mouths, hands gripping waist/ass/neck urgently, lewd and needy kissing, erotic tension high, nsfw, ultra detailed lips tongue and saliva strings, close-up kiss focus, sensual dim lighting\",\"duration\":\"5\",\"mode\":\"pro\",\"resolution\":\"720p\",\"generate_audio\":false}}",
+        "type": "image_to_video_viduq2",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-kissing-f5f32d18.mp4",
+        "title": "Kissing",
+        "desc": "Deep passionate French kiss, tongues intertwined, saliva strings, intimate eye contact and caressing"
+    },
+    {
+        "templateId": "dance",
+        "imageParameters": "{\"name\":\"Template-Dance\",\"prompt\":\"completely nude, naked, fully undressed, no clothes at all, bare skin everywhere, exposed large breasts, exposed nipples, exposed detailed pussy, exposed vulva, bare thighs, bare legs, bare feet, detailed naked body, realistic skin texture, glossy skin, nsfw, explicit, masterpiece, best quality, highres\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"Dancing is precisely about moving and dancing.\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-naked_dance-ce715f34.mp4",
+        "title": "Dance",
+        "desc": "Nude sensual dance, slow undressing, breast reveal, hip sway, seductive posing and eye contact"
+    },
+    {
+        "templateId": "boob_play",
+        "imageParameters": "{\"name\":\"Template-BoobPlay\",\"prompt\":\"photorealistic NSFW upper body close-up, strictly preserve input image exact color palette tones lighting skin color background hues saturation ambiance, large natural breasts bare erect nipples, both hands cupping squeezing breasts from sides underneath lifting slightly, fingers pressing softly, teasing expression half-lidded eyes direct eye contact parted lips, soft side lighting gentle shadows on curves skin pores natural sheen, explicit nudity breasts focus, realistic detailed masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"model\":\"vidu/vidu-q2/start-end-to-video\",\"args\":{\"prompt\":\"photorealistic NSFW video animation from input image, strictly preserve exact input color palette tones lighting skin color background saturation ambiance, young woman large natural breasts bare erect nipples, both hands cupping squeezing breasts from sides underneath slow gentle rhythmic massage lift press fingers softly into flesh subtle jiggle bounce, teasing expression half-lidded eyes direct eye contact parted lips slight breathing, soft warm side lighting gentle shadows on curves skin pores natural sh\",\"duration\":\"5\",\"mode\":\"pro\",\"resolution\":\"720p\",\"generate_audio\":false}}",
+        "type": "image_to_video_a2e_s_e_viduq2",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-boob_play-e8c5ac5f.mp4",
+        "title": "BOOL-PLAY",
+        "desc": "Intimate breast squeezing, cupping and massaging, sensual jiggle and teasing expression"
+    },
+    {
+        "templateId": "bouncing_breasts",
+        "imageParameters": "{\"name\":\"Template-BouncingBreasts\",\"prompt\":\"photorealistic NSFW upper body close-up, strictly preserve input exact color palette tones lighting skin background hues saturation ambiance, young woman large natural heavy bare breasts erect nipples, arms raised high overhead hands behind head elbows out, chest thrust forward accentuating breast shape weight, teasing aroused half-lidded eyes direct eye contact, soft warm side lighting deep breast shadows, realistic skin pores subtle sheen, explicit nudity breasts focus, detailed realistic\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"Jump up and down, with your chest moving up and down.\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-bouncing_breasts-7beb7ce9.mp4",
+        "title": "Bouncing Breasts",
+        "desc": "Intense vertical breast bouncing with realistic heavy jiggle physics, arms overhead"
+    },
+    {
+        "templateId": "handjob",
+        "imageParameters": "{\"name\":\"Template-Handjob\",\"prompt\":\"photorealistic NSFW close-up, attractive young woman completely nude, flawless skin, front half-body view facing camera, hands gripping erect penis stroking base to tip, detailed fingers wrapping shaft, teasing expression contact parted lips, soft warm bedroom lighting skin pores sheen, explicit nsfw detailed realistic masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video, close-up shot, attractive young woman completely nude, flawless smooth skin, both hands firmly gripping erect penis, rapid vigorous up-and-down stroking, fast rhythmic pumping motion from base to tip, fingers tightly wrapped around shaft with strong twisting grip, thumb occasionally sliding over sensitive head, glistening precum visible, aroused teasing expression, half-lidded eyes maintaining intense direct eye contact, parted lips breathing heavily with implied moaning, soft warm bedroom lighting, realistic skin pores and light sheen of sweat, highly detailed hands, veins, fluid realistic motion, explicit uncensored NSFW, cinematic masterpiece, ultra-realistic textures, 8k quality\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-handjob-8229c819.mp4",
+        "title": "Handjob",
+        "desc": "Close-up hand stroking erect penis with vigorous rhythmic motion, intense eye contact and teasing expression"
+    },
+    {
+        "templateId": "titjob",
+        "imageParameters": "{\"name\":\"Template-Titjob\",\"prompt\":\"photorealistic NSFW upper body close-up, attractive young woman large natural breasts erect nipples, erect penis angled upward 45° between breasts shaft mostly wrapped in tight cleavage but partially visible, woman slightly turned to side, male left only penis visible, hands pressing breasts firmly squeezing full length, teasing half-lidded eyes direct eye contact parted lips, soft warm lighting skin sheen, explicit nsfw detailed realistic masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"fast intense titjob, penis thrusting rapidly up and down, entire shaft fully enveloped and tightly clamped by large breasts at 45 degree upward angle, breasts pressed extremely firm squeezing the full length of the cock in deep tight cleavage with no visible gaps, vigorous sliding motion, breasts bouncing and jiggling heavily, glossy oil sheen on breasts and shaft, heavy sweat beads dripping, increasing precum slickness, explosive cumshot: powerful thick ropes of semen shooting upward from between tightly squeezed breasts, splattering on cleavage, neck and lower face, final quick strokes with cum overflowing\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-titjob-deb1489f.mp4",
+        "title": "Titjob",
+        "desc": "Intense breast enveloping and thrusting with deep cleavage squeeze, ending in explosive cumshot"
+    },
+    {
+        "templateId": "blowjob_pov",
+        "imageParameters": "{\"name\":\"Template-BlowjobPOV\",\"prompt\":\"photorealistic NSFW POV close-up masterpiece, attractive fully nude young woman, completely naked, massive huge breasts exposed, enormous heavy hanging tits with smooth flawless skin, glossy perfect skin, erect puffy nipples, no skin blemishes, no spots, no pores on breasts, both hands firmly gripping thick erect penis on left side of frame, mouth open tongue licking penis tip, lips wrapped around glans, saliva strings drool dripping, half-lidded seductive eyes direct eye contact looking up, flushed aroused face, head tilted right toward cock, asymmetric off-center composition, soft cinematic lighting, explicit uncensored realistic detailed anatomy, 8k highres\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"POV, first person view, close-up on mouth and bulging throat, penis entering mouth fully then forcefully pushed deeper into throat, hard thrust making cock disappear completely, quick violent withdrawal with strings of saliva, immediate next powerful slam back in, fast pistoning rhythm, gagging intensely on each deep thrust, throat contracting and bulging visibly with every insertion, heavy drooling saliva spilling out, choking gagging sounds implied, head being held firmly for deep penetration, rapid aggressive in-and-out motion, penis slamming against back of throat repeatedly, forceful deepthroating, messy sloppy wet deepthroat, relentless fast throat fucking pace，lips tightly wrapped and sealed around the shaft,\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-blowjob_pov-e932c158.mp4",
+        "title": "Blowjob POV",
+        "desc": "POV aggressive deepthroat with fast pistoning, heavy drool, throat bulging and gagging"
+    },
+    {
+        "templateId": "cumshot",
+        "imageParameters": "{\"name\":\"Template-Cumshot\",\"prompt\":\"First-person POV ultra close-up, semi-nude young woman upper body, large bare breasts fully exposed with hard erect nipples, head tilted slightly back, ecstatic surprised expression, eyes half-closed in intense pleasure, mouth slightly open or gaping in anticipation, flushed aroused face, man's standing position with both hands firmly holding a thick veiny erect penis right in the foreground, penis pointed directly toward her face at very close range, tip very near her cheeks/lips/chin but not touching, intimate erotic composition, highly detailed skin texture, glossy lips, realistic lighting and shadows, photorealistic NSFW, masterpiece quality, sharp focus, detailed pores and veins\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"rapid handjob stroking/pumping the penis back-and-forth intensely , 4-6 times building speed,penis angled downward into gaping mouth, hand guides and thrusts penis tip in-and-out shallowly at lips during final strokes, climax:explosive multi-spurt cumshot thick white semen shooting in pulses directly into open mouth filling it\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-cumshot-9d92ad5c.mp4",
+        "title": "Cumshot",
+        "desc": "Explosive cumshot into open mouth with overflowing thick semen, messy dripping and glistening"
+    },
+    {
+        "templateId": "extreme_bukkake",
+        "imageParameters": "{\"name\":\"Template-ExtremeBukkake\",\"prompt\":\"photorealistic NSFW close-up, young woman face upper body covered heavy thick cum layers eyes mouth open tongue out,excessive semen glistening skin, flushed heavy blush sweat tears, explicit nsfw ultra detailed realistic masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video from image, young woman extreme bukkake multiple cumshots thick ropes spurting covering face mouth breasts hair body heavily, semen dripping rivers trails pooling, tongue out eyes rolling aroused ecstatic expression, slow motion cum splash physics close-up explicit uncensored nsfw masterpiece detailed\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-extreme_bukkake-9a4bbddc.mp4",
+        "title": "Extreme Bukkake",
+        "desc": "Heavy multiple cumshots covering face and body, thick dripping semen, ecstatic ahegao-like expression"
+    },
+    {
+        "templateId": "dildo",
+        "imageParameters": "{\"name\":\"Template-Dildo\",\"prompt\":\"photorealistic NSFW, naked young woman in half-squat position riding large realistic standing dildo, vaginal insertion visible, face fully visible looking at camera or slightly upward with aroused expression, slowly lowering and raising hips, extremely detailed silky skin with natural pores and subtle imperfections, glistening sweat and arousal fluids, shiny wet highlights on inner thighs and labia, medium shot from slightly low angle including face, breasts and lower body, hyper-realistic anato\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW close-up, naked woman in half-squat position riding a large realistic dildo standing upright, slowly lowering and raising her hips in a steady riding motion, vaginal insertion visible, extremely smooth silky fine-detailed skin texture, flawless yet natural pores and subtle imperfections, glistening skin with realistic sweat and arousal fluids, shiny wet highlights on inner thighs and labia, subtle body tremble and natural breathing, medium shot from slightly low angle focusing on lower body and penetration, 4k ultra high resolution, hyper-realistic anatomy, realistic soft diffused lighting with gentle specular highlights and rim light on skin, cinematic depth of field, sharp focus on penetration and skin details, masterpiece, best quality\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-dildo-7ab276ef.mp4",
+        "title": "Dildo",
+        "desc": "Woman riding large dildo in half-squat, visible deep vaginal insertion with glistening fluids and realistic motion"
+    },
+    {
+        "templateId": "masturbating",
+        "imageParameters": "{\"name\":\"Template-Masturbating\",\"prompt\":\"photorealistic NSFW full body shot, nude young woman on back on white bed, upper body propped up, right hand behind back supporting, left hand with two fingers deeply inserted in vagina, legs extremely wide in M-shape, hips tilted up, face fully visible looking at camera with aroused expression, detailed realistic vulva wet with fluids, perky breasts, low frontal angle head to toes, soft natural daylight, hyper-detailed anatomy masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW, close-up focus on vulva and right hand, right hand with index finger and ring finger fully deeply inserted into vagina, continuous circular stirring and rotating motion inside wet vagina, fingers twisting and curling deeply to stimulate inner walls and G-spot, steady rhythmic internal stirring, vaginal canal gripping and stretching around two fingers, glistening arousal fluids coating fingers fully, dripping and stringy wetness from opening with each rotation, labia minora clinging and shifting subtly, hyper-detailed mucous membranes, realistic internal texture and finger movement visible through slight parting, anatomically correct deep insertion and stirring, smooth fluid animation 8-12 seconds looping, sharp focus on fingers deep inside vagina and fluid dynamics, 4k-8k resolution\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-masturbating-b569f361.mp4",
+        "title": "Masturbating",
+        "desc": "Deep vaginal finger insertion and stirring, wide spread legs, glistening arousal fluids and detailed close-up"
+    },
+    {
+        "templateId": "doggy_style",
+        "imageParameters": "{\"name\":\"Template-DoggyStyle\",\"prompt\":\"photorealistic NSFW, the woman in the input image and a man standing, woman bent over bed edge hands supporting, fair glossy smooth porcelain skin, massive plump hanging breasts swaying, erect nipples, man behind gripping hips thrusting deeply, detailed rear view of penetration, wet labia spread around shaft, arousal fluids on thighs, her looking back with seductive aroused eyes, flushed face, bedroom soft lighting with specular highlights on skin, hyper-detailed realistic proportions, explicit\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video, young nude couple standing, woman bent over bed edge hands gripping sheets, fair glossy smooth porcelain skin glistening, massive plump hanging breasts swaying and bouncing with each thrust, erect nipples, man behind gripping her hips thrusting deeply and firmly from rear, detailed rear close-up of penetration with wet labia spread around shaft sliding in and out, arousal fluids dripping down inner thighs, her looking back over shoulder with seductive aroused eyes and parted lips moaning, flushed face, bedroom soft lighting with specular highlights on skin and ass, dynamic camera panning from side to rear low angle following intense rhythmic thrusts, smooth natural body movements, hyper-detailed realistic proportions, explicit uncensored, 8k highres masterpiece\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-doggy_style-7ae726c6.mp4",
+        "title": "Doggy Style",
+        "desc": "Intense rear-entry thrusting in doggy position, visible penetration, bouncing breasts and rhythmic hip motion"
+    },
+    {
+        "templateId": "reverse_cowgirl",
+        "imageParameters": "{\"name\":\"Template-ReverseCowgirl\",\"prompt\":\"photorealistic NSFW full body, young nude couple on bed, woman on top facing away in reverse cowgirl, fair ultra-smooth porcelain skin glistening with sweat, massive plump full breasts visible from side, erect nipples, straddling man's hips, deep vaginal penetration visible from rear angle, her hands on his thighs for support, arched back ass raised, detailed wet labia stretched around shaft, arousal fluids dripping, seductive glance over shoulder, soft bedroom lighting with rim highlights on curves, hyper-realistic anatomy, 8k masterpiece, best quality\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video, nude couple in reverse cowgirl on bed, woman facing away fair silky smooth porcelain skin shiny, massive heavy plump breasts bouncing side to side, erect nipples, grinding and bouncing hips rhythmically up and down, penis sliding fully in and out of vagina visible from rear low angle, arousal fluids coating shaft and thighs, her hands gripping his legs, arched back ass jiggling with each motion, occasional glance back with aroused eyes moaning, soft natural light with specular highlights, dynamic camera circling slowly around bodies focusing on penetration and breast bounce, smooth fluid thrusting, hyper-detailed, explicit, 8k best quality\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-reverse_cowgirl-35e585df.mp4",
+        "title": "Reverse Cowgirl",
+        "desc": "Woman riding facing away, prominent breast bounce, deep visible penetration, rhythmic grinding and hip movement"
+    },
+    {
+        "templateId": "anal",
+        "imageParameters": "{\"name\":\"Template-Anal\",\"prompt\":\"photorealistic NSFW side view, nude couple in spooning position on bed, woman in front fair porcelain skin ultra-smooth and glowing, massive plump full breasts pressed together, erect nipples, one leg lifted high allowing deep penetration from behind, man's arm around her waist holding breast, detailed wet pussy stretched around penis, arousal fluids dripping, intimate aroused expressions, soft diffused morning light casting gentle shadows on curves, hyper-realistic anatomy, sharp focus, 8k masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video side view, nude couple spooning intimately on bed, woman in front fair porcelain skin ultra-smooth glowing with light sweat, massive plump full breasts pressed together jiggling softly, erect nipples, one leg lifted high bent allowing deep slow rhythmic penetration from behind, man's arm around her waist caressing and squeezing breast, detailed wet pussy stretched around penis thrusting steadily in and out, arousal fluids visible dripping slowly, intimate aroused expressions with soft moans and heavy breathing, soft diffused morning light casting gentle shadows on skin curves, camera slowly zooming in on penetration and breast movement, fluid realistic motion, hyper-realistic anatomy, 8k masterpiece\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-anal-8bbdbc20.mp4",
+        "title": "Anal",
+        "desc": "Intimate spooning anal penetration, slow deep thrusting, breast caressing, glistening fluids and close contact"
+    },
+    {
+        "templateId": "spooning",
+        "imageParameters": "{\"name\":\"Template-Spooning\",\"prompt\":\"photorealistic NSFW side view, nude couple in spooning position on bed, woman in front fair porcelain skin ultra-smooth and glowing, massive plump full breasts pressed together, erect nipples, one leg lifted high allowing deep penetration from behind, man's arm around her waist holding breast, detailed wet pussy stretched around penis, arousal fluids dripping, intimate aroused expressions, soft diffused morning light casting gentle shadows on curves, hyper-realistic anatomy, sharp focus, 8k masterpiece\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video, young nude couple having sex on bed,close-up of thick erect penis thrusting deeply in and out of wet vagina\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-spooning-1401ac5d.mp4",
+        "title": "Spooning",
+        "desc": "Close intimate spooning position with deep vaginal penetration, gentle breast squeeze and rhythmic motion"
+    },
+    {
+        "templateId": "pussy_smash",
+        "imageParameters": "{\"name\":\"Template-PussySmash\",\"prompt\":\"photorealistic NSFW full body, young nude couple on bed, woman lying on back with legs wrapped around man's waist, fair ultra-smooth porcelain skin glistening, massive plump full breasts bouncing, erect nipples, man on top thrusting deeply into vagina, detailed wet penetration visible, her hands gripping his back, aroused expressions eye contact, flushed faces, soft bedroom lighting with gentle shadows and skin highlights, hyper-realistic anatomy, arousal fluids, cinematic depth of field, 8k masterpiece, best quality\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video, young nude couple having sex on bed,close-up of thick erect penis thrusting deeply in and out of wet vagina\",\"engine\":\"A4\",\"duration\":5,\"height\":848,\"width\":480}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-pussy_smash-e3dca970.mp4",
+        "title": "Pussy Smash",
+        "desc": "Missionary-style deep thrusting with legs wrapped, intense breast bounce and visible wet penetration"
+    },
+    {
+        "templateId": "footjob",
+        "imageParameters": "{\"name\":\"Template-Footjob\",\"prompt\":\"photorealistic NSFW close-up medium shot，undress, fully nude young woman fair ultra-smooth porcelain skin glistening with light sweat, massive plump full natural breasts exposed with erect puffy nipples,legs extended forward, both elegant feet around thick erect penis stroking firmly up and down, penis shaft glistening with precum between smooth soles, arousal fluids visible, her seductive half-lidded eyes looking directly at viewer with aroused smirk, flushed face, soft bedroom cinematic light\",\"width\":1080,\"height\":1920,\"aspect_ratio\":\"9:16\",\"model_type\":\"a2e\",\"max_images\":1}",
+        "videoParameters": "{\"prompt\":\"photorealistic NSFW video, young nude woman seated on bed edge fair silky smooth porcelain skin shiny with sweat, massive heavy plump breasts jiggling subtly, erect nipples, legs extended using both soft smooth feet to give footjob, soles pressing and sliding rhythmically up and down thick erect penis, toes curling and gripping shaft occasionally, penis throbbing and glistening with precum dripping between arches, slow to faster stroking motion building intensity, her seductive eyes locked on viewer moaning softly, flushed aroused expression, occasional breast squeeze with one hand, soft natural window light with rim highlights on legs and feet curves, dynamic close-up camera panning from face to feet focusing on rhythmic foot strokes, penis sliding between soles, smooth fluid realistic motion, hyper-detailed textures, explicit uncensored, 8k highres masterpiece\",\"engine\":\"A4\",\"duration\":5,\"height\":1920,\"width\":1080}",
+        "type": "image_to_video_a2e_a4",
+        "videoUrl": "https://opengoon.com/assets/styles/video/video-footjob-bfe5afe5.mp4",
+        "title": "Footjob",
+        "desc": "Seated footjob with soles stroking penis, toe curling, breast jiggle and seductive direct eye contact"
+    }
+]

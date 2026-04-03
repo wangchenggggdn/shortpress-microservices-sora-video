@@ -1,0 +1,39 @@
+name: Build and Push
+
+on:
+    push:
+        branches: ['main']
+
+jobs:
+    build-and-push:
+        runs-on: ubuntu-latest
+
+        permissions:
+            contents: read
+            packages: write
+
+        steps:
+            - name: Check out repository code
+              uses: actions/checkout@v4
+
+            - name: Log in to Docker Hub
+              uses: docker/login-action@v3
+              with:
+                  username: ${{ secrets.DOCKERHUB_USERNAME }}
+                  password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+            - name: Extract Docker metadata
+              id: meta
+              uses: docker/metadata-action@v5
+              with:
+                  # 格式：你的Docker用户名/你的镜像名
+                  images: ${{ secrets.DOCKERHUB_USERNAME }}/shortpress-microservices-sora-video #
+
+            - name: Build and push Docker image
+              uses: docker/build-push-action@v5
+              with:
+                  context: .
+                  push: true
+                  tags: ${{ steps.meta.outputs.tags }} # 使用上一步生成的标签
+                  labels: ${{ steps.meta.outputs.labels }} # 添加元数据
+                  file: ./Dockerfile

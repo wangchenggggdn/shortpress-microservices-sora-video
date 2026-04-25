@@ -63,10 +63,11 @@ type a2eSEImageQueryResponse struct {
 type viduq2SEVideoGenerateRequest struct {
 	Model string `json:"model"`
 	Args  struct {
-		Mode      string `json:"mode"`
-		Prompt    string `json:"prompt"`
-		Image     string `json:"image"`      // 首帧（原图）
-		ImageTail string `json:"image_tail"` // 尾帧（A2E 生成）
+		Mode          string `json:"mode"`
+		Prompt        string `json:"prompt"`
+		Image         string `json:"image"`      // 首帧（原图）
+		ImageTail     string `json:"image_tail"` // 尾帧（A2E 生成）
+		SafetyChecker bool   `json:"safety_checker"`
 	} `json:"args"`
 }
 
@@ -366,6 +367,7 @@ func (v *A2eSEViduQ2) startVideoGeneration(ctx context.Context, taskID, headImag
 	// 设置首帧和尾帧
 	viduq2Req.Args.Image = headImageURL
 	viduq2Req.Args.ImageTail = tailImageURL
+	viduq2Req.Args.SafetyChecker = false
 
 	payload, _ := json.Marshal(viduq2Req)
 
@@ -410,6 +412,7 @@ func (v *A2eSEViduQ2) startVideoGeneration(ctx context.Context, taskID, headImag
 		if videoURL != "" {
 			// 视频生成成功
 			log.Printf("[A2eSEViduQ2] 任务 %s - 视频生成完成", taskID)
+			log.Printf("[A2eSEViduQ2] 视频 URL: %s", videoURL)
 			break
 		} else if v.isTaskFailed(ctx, taskID) {
 			// 视频生成失败

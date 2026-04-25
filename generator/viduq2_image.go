@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"shortpress-sora-video/config"
 	"shortpress-sora-video/util"
+	"strconv"
 )
 
 // ViduQ2ImageGenerateRequest ViduQ2 图片生视频请求
@@ -20,6 +21,7 @@ type ViduQ2ImageGenerateRequest struct {
 		MovementAmplitude string `json:"movement_amplitude"`
 		GenerateAudio     bool   `json:"generate_audio"`
 		VoiceID           string `json:"voice_id"`
+		SafetyChecker     bool   `json:"safety_checker"`
 	} `json:"args"`
 	CallbackURL string `json:"callback_url,omitempty"`
 }
@@ -88,6 +90,17 @@ func (v *ViduQ2Image) Generate(args map[string]any) (string, error) {
 	}
 
 	// 解析 args 参数
+	// 默认关闭安全检查
+	req.Args.SafetyChecker = false
+
+	if safetyChecker, ok := args["safety_checker"].(bool); ok {
+		req.Args.SafetyChecker = safetyChecker
+	} else if safetyCheckerStr, ok := args["safety_checker"].(string); ok {
+		if parsed, err := strconv.ParseBool(safetyCheckerStr); err == nil {
+			req.Args.SafetyChecker = parsed
+		}
+	}
+
 	if mode, ok := args["mode"].(string); ok {
 		req.Args.Mode = mode
 	}

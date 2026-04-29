@@ -3,7 +3,7 @@ name: Build and Push
 on:
     push:
         branches: ['main']
-
+        tags: ['v*']
 jobs:
     build-and-push:
         runs-on: ubuntu-latest
@@ -28,7 +28,9 @@ jobs:
               with:
                   # 格式：你的Docker用户名/你的镜像名
                   images: ${{ secrets.DOCKERHUB_USERNAME }}/shortpress-microservices-sora-video #
-
+                  tags: |
+                    type=ref,event=branch
+                    type=ref,event=tag
             - name: Build and push Docker image
               uses: docker/build-push-action@v5
               with:

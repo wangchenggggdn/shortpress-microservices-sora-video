@@ -67,6 +67,7 @@ type viduq2ImageGenerateRequest struct {
 		Image             string `json:"image"`
 		Resolution        string `json:"resolution"`
 		MovementAmplitude string `json:"movement_amplitude"`
+		SafetyChecker     bool   `json:"safety_checker"`
 	} `json:"args"`
 }
 
@@ -572,6 +573,7 @@ func (v *A2eViduQ2) startVideoGeneration(ctx context.Context, taskID, imageURL s
 
 	// 设置图片 URL
 	viduq2Req.Args.Image = imageURL
+	viduq2Req.Args.SafetyChecker = false
 
 	payload, _ := json.Marshal(viduq2Req)
 
@@ -613,6 +615,7 @@ func (v *A2eViduQ2) startVideoGeneration(ctx context.Context, taskID, imageURL s
 		if videoURL != "" {
 			// 视频生成成功
 			log.Printf("[A2eViduQ2] 任务 %s - 视频生成完成", taskID)
+			log.Printf("[A2eViduQ2] 视频 URL: %s", videoURL)
 			break
 		} else if v.isVideoFailed(ctx, taskID) {
 			// 视频生成失败

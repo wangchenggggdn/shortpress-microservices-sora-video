@@ -42,7 +42,7 @@ var (
 	A4QueryURL    = AituboAPIBase + "/api/job/get-video?id=%s"
 
 	// A2E API 配置
-	A2eToken = getEnv("A2E_TOKEN", "sk_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTVlMWNkMWZjNjczMDAwNjdlMjJkMDgiLCJuYW1lIjoidmljdG9yeXZpZGVvMDFAZ21haWwuY29tIiwicm9sZSI6ImNvaW4iLCJpYXQiOjE3NjgzNjM3ODF9.4Kgr7rGvdDUP2mc8S8_GxbAv4SkDBe418r3C7IIfawA")
+	A2eToken = getEnv("A2E_TOKEN", "sk_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTAyZmZhMzY1OGUyNDAwNzBlOTIwM2EiLCJuYW1lIjoid2FuZ2NoZW5nZ2dnZG5AZ21haWwuY29tIiwicm9sZSI6InVsdHJhIiwiaWF0IjoxNzc4NjQ2NTQ3fQ.c8PQMww5BzU7UoZLD8AgDhrP7BISu75ugf91dh7wzfg")
 
 	A2eGenerateURL = "https://video.a2e.ai/api/v1/userImage2Video/start"
 	A2eQueryURL    = "https://video.a2e.ai/api/v1/userImage2Video/%s"
